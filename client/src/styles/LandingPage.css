@@ -1,0 +1,7 @@
+.landing__Wrapper{
+    background-image: url('background4k.png');
+    background-size:contain;
+    background-color: rgb(27, 27, 27);
+    width: 100vw;
+    height: 100vh;
+}
